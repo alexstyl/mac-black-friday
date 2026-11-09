@@ -8,7 +8,7 @@
   "code": "BLACKFRIDAY26",
   "prices": [{ "plan": "License", "before": 2.99, "after": 2.69 }],
   "ends": "2026-12-01",
-  "icon": "https://fuzzyfoundry.com/emcee/apple-touch-icon.png",
+  "icon": "https://fuzzyfoundry.com/emcee/icon-256.webp",
   "maker": "Fuzzy Foundry",
   "makerUrl": "https://x.com/fuzzyfoundry"
 }
