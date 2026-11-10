@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:19:29.649Z",
+  "updatedAt": "2026-11-10T02:19:51.354Z",
   "categories": [
     {
       "id": "ai",
@@ -688,6 +688,32 @@
       ],
       "ends": "2026-11-30",
       "terms": "23-30 Nov. Code: BLKFRD26"
+    },
+    {
+      "id": "fresh-notch",
+      "name": "Fresh Notch",
+      "url": "https://freshnotch.com/#pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "utilities",
+      "discount": "$3 off",
+      "description": "Lives in your notch, watches uptime, memory pressure and swap, and tells you when a restart would actually make your Mac feel faster.",
+      "code": "BFRIDAY",
+      "prices": [
+        {
+          "plan": "2 Macs",
+          "before": 8.99,
+          "after": 5.99
+        },
+        {
+          "plan": "5 Macs",
+          "before": 14.99,
+          "after": 11.99
+        }
+      ],
+      "starts": "2026-11-27",
+      "ends": "2026-11-30"
     },
     {
       "id": "habit-pixel",
