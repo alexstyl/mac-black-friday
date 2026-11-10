@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:18:44.548Z",
+  "updatedAt": "2026-11-10T02:19:08.032Z",
   "categories": [
     {
       "id": "ai",
@@ -386,26 +386,30 @@
     {
       "id": "deckloud",
       "name": "Deckloud",
-      "url": "https://deckloud.com/black-friday/",
+      "url": "https://deckloud.com/black-friday/?utm_source=mac-black-friday",
       "platforms": [
         "macOS",
         "iOS",
         "iPadOS"
       ],
       "category": "productivity",
-      "description": "Native Nextcloud Deck app for iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server.",
-      "discount": "40% off",
-      "code": "BF2026",
+      "description": "Independent native app for Nextcloud Deck on iPhone, iPad, Android, Mac, Windows, and Linux, with offline sync to your own server.",
+      "discount": "40% off Pro lifetime",
       "prices": [
         {
-          "plan": "Lifetime",
+          "plan": "Pro lifetime on the App Store and Google Play, no code",
           "before": 39,
           "after": 22.99
+        },
+        {
+          "plan": "Desktop-only Pro for Mac, Windows, and Linux, code BF2026",
+          "before": 19,
+          "after": 11.4
         }
       ],
       "ends": "2026-12-02",
       "starts": "2026-11-27",
-      "terms": "Automatically applied on the App Store and Google Play; one-time purchase; desktop-only Pro $19 → $11.40 with BF2026; subscriptions excluded; 2026-11-27 to…"
+      "terms": "App Store and Google Play: no code. Desktop-only Pro: BF2026. One-time purchase. Lifetime Pro includes every Deckloud app we add, including Calendar and Mail."
     },
     {
       "id": "device-mcp",
