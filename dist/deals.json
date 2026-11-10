@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:18:23.052Z",
+  "updatedAt": "2026-11-10T02:18:44.548Z",
   "categories": [
     {
       "id": "ai",
@@ -1367,6 +1367,32 @@
       "maker": "Vu Nguyen",
       "makerUrl": "https://x.com/vunguyendev",
       "icon": "https://www.smoothcapture.app/presskit/icon-512.png"
+    },
+    {
+      "id": "smoothcut",
+      "name": "SmoothCut",
+      "url": "https://smoothcut.studio/pricing",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "audio-video",
+      "description": "Screen recorder that auto-zooms on your clicks, smooths the cursor and adds a camera bubble and on-device captions. Also on Windows.",
+      "discount": "40% off",
+      "code": "BLACKFRIDAY40",
+      "prices": [
+        {
+          "plan": "Personal",
+          "before": 79,
+          "after": 47.4
+        },
+        {
+          "plan": "Pro",
+          "before": 169,
+          "after": 101.4
+        }
+      ],
+      "terms": "Applied automatically at checkout. One-time purchase, free to use with 720p exports and a small mark.",
+      "ends": "2026-12-01"
     },
     {
       "id": "snaptidy-photo-swipe-delete",
