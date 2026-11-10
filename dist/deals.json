@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-09T14:23:53.265Z",
+  "updatedAt": "2026-11-10T02:18:01.588Z",
   "categories": [
     {
       "id": "ai",
@@ -511,6 +511,29 @@
       "terms": "Automatically applied; no code needed; 2026-11-27 to 2026-12-1",
       "starts": "2026-11-27",
       "ends": "2026-12-01"
+    },
+    {
+      "id": "emcee",
+      "name": "emcee",
+      "url": "https://fuzzyfoundry.com/emcee",
+      "platforms": [
+        "macOS"
+      ],
+      "category": "productivity",
+      "discount": "10% off",
+      "description": "A window manager that works like an improved Stage Manager: group windows into stages and drag them between stages.",
+      "code": "BLACKFRIDAY26",
+      "prices": [
+        {
+          "plan": "License",
+          "before": 2.99,
+          "after": 2.69
+        }
+      ],
+      "ends": "2026-12-01",
+      "icon": "https://fuzzyfoundry.com/emcee/icon-256.webp",
+      "maker": "Fuzzy Foundry",
+      "makerUrl": "https://x.com/fuzzyfoundry"
     },
     {
       "id": "everlog-journal",
