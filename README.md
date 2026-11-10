@@ -160,6 +160,12 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [SubManager](https://submanager.app) | macOS, iOS, visionOS | Track subscriptions across iOS, macOS and visionOS and never miss a renewal. | **50% off** · Discount available from Nov 27 to Nov 30. During the discount period go to Settings -> SubManager+ to purchase · until Nov 30 |
 | [Wealthfolio Connect](https://wealthfolio.app/connect/black-friday/) | macOS, iOS | Encrypted device sync and backups for Wealthfolio; Essentials and Duo add automatic imports from supported brokerages | **35% off first year (annual)** · code **BLACKFRIDAY35** · Nov 8–30, 2026. Annual Basic, Essentials and Duo; first year only; renewals at regular price. Ends Nov 30 at 11:59 p.m. Eastern · until Nov 30 |
 
+### Education
+
+| App | Platforms | What it does | Deal |
+| --- | --- | --- | --- |
+| [Beat Chess! Coach](https://apps.apple.com/us/app/beat-chess-coach/id6828699930) | iOS, iPadOS | Play 14 chess coaches that explain every move, and find the mistakes you keep making in your Lichess and Chess.com games, with Stockfish 19 on-device. | **40% off Full** · Full ~~$4.99~~ $2.99 · until Nov 30 |
+
 ### Games
 
 | App | Platforms | What it does | Deal |
