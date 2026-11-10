@@ -91,6 +91,7 @@ Hi! I build native Mac and iOS apps and maintain this list. Follow me on [X](htt
 | [BirdFrame](https://getbirdframe.com/) | macOS | Batch-crop bird photos at full resolution on Mac, from Apple Photos or a folder. | **33% off ($29.99 → $19.99)** · License ~~$29.99~~ $19.99 · No code needed; one-time Mac App Store unlock; 2026-11-20 to 2026-12-01 · until Dec 1 |
 | [PAPLO: Photo Sticker Maker](https://getpaplo.com/news/black-friday-2026) | iOS | Turns photos of your pets, friends and food into chat stickers for iMessage, WhatsApp and Telegram. No ads, no account, no subscription. | **PAPLO Plus $3.99, 43% off** · PAPLO Plus (one-time purchase) ~~$6.99~~ $3.99 · US price; local prices vary. In-app purchase, no code needed · until Dec 1 |
 | [Sip](https://sipapp.io/pricing/) | macOS | Modern color picker for Mac that brings ease to color organization and team collaboration. | **50% off** · code **BLACKFRIDAY26** · BLACKFRIDAY26; 2026-11-27 to 2026-12-01 · until Dec 1 |
+| [SnapTidy: Photo Swipe & Delete](https://snaptidyapp.github.io/snaptidy-site/blackfriday/) | iOS, iPadOS | Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. No account, no ads. | **Lifetime 50% off** · Pro Lifetime (one-time purchase) ~~$39.99~~ $19.99 · US price; local prices vary; not discounted in mainland China. In-app purchase, no code needed · until Nov 30 |
 
 ### Audio and Video
 

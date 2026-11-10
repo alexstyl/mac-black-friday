@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-10T02:18:01.588Z",
+  "updatedAt": "2026-11-10T02:18:23.052Z",
   "categories": [
     {
       "id": "ai",
@@ -1367,6 +1367,30 @@
       "maker": "Vu Nguyen",
       "makerUrl": "https://x.com/vunguyendev",
       "icon": "https://www.smoothcapture.app/presskit/icon-512.png"
+    },
+    {
+      "id": "snaptidy-photo-swipe-delete",
+      "name": "SnapTidy: Photo Swipe & Delete",
+      "url": "https://snaptidyapp.github.io/snaptidy-site/blackfriday/",
+      "platforms": [
+        "iOS",
+        "iPadOS"
+      ],
+      "category": "design",
+      "discount": "Lifetime 50% off",
+      "description": "Photo cleaner for iPhone and iPad: swipe a few photos at a time to keep or mark; nothing is deleted until you confirm. No account, no ads.",
+      "prices": [
+        {
+          "plan": "Pro Lifetime (one-time purchase)",
+          "before": 39.99,
+          "after": 19.99
+        }
+      ],
+      "terms": "US price; local prices vary; not discounted in mainland China. In-app purchase, no code needed.",
+      "starts": "2026-11-27",
+      "ends": "2026-11-30",
+      "makerUrl": "https://aitinyapps.com/en/snaptidy/",
+      "icon": "https://snaptidyapp.github.io/snaptidy-site/press/snaptidy-app-icon-1024.png"
     },
     {
       "id": "snowwall",
